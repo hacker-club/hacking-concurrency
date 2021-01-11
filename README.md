@@ -27,3 +27,5 @@ $ go run tickets.go
 $ cd queueing
 $ go run tickets.go
 ```
+
+You can also try it in this [repl.it](https://repl.it/@rodrigorahal/Tickets).
